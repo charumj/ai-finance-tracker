@@ -10,3 +10,5 @@
 Install Streamlit:
 ```bash
 pip install streamlit
+```bash
+streamlit run main.py
